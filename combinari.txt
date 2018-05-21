@@ -1,0 +1,7 @@
+6
+Solution: P0=1, P1=2, 
+Solution: P0=1, P1=3, 
+Solution: P0=2, P1=3, 
+Solution: P0=1, P1=4, 
+Solution: P0=2, P1=4, 
+Solution: P0=3, P1=4, 
